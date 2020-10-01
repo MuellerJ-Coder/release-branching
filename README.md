@@ -1,4 +1,4 @@
 # release-branching
-##Introduction
-##scope
+## Introduction
+## Scope
 This ist the Introduction Branch
